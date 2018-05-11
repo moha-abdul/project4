@@ -19,7 +19,14 @@
   background-color: #A4D0B0;
 }
 .btn-default {
-  
+
+}
+.button-result {
+  height: 60px;
+  width: 100px;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  border: 3px solid blue;
 }
 .footer {
   height: 200px;
