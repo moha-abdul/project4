@@ -1,0 +1,28 @@
+.jumbotron {
+  background-color: #667DD5;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  height: 150px;
+  width: 95%;
+  border-radius: 0;
+}
+.players {
+  width: 95%;
+  paddding: 0 0 0 0;
+  margin: 0 0 0 0;
+  height: 400px;
+}
+.player1 {
+  background-color: #AAA4D0;
+}
+.player2 {
+  background-color: #A4D0B0;
+}
+.btn-default {
+  
+}
+.footer {
+  height: 200px;
+  background-color: #CEEFEB;
+  width: 95%;
+}
